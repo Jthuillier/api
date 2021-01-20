@@ -41,7 +41,7 @@ p{
     flex-direction: column;
 }
 
-#logo{
+#logo_nav{
     height: 3rem;
 }
 
@@ -55,6 +55,10 @@ p{
     height: 10rem;
     border: 0.5px white solid;
     margin: 2rem;
+}
+
+#logo{
+    height: 8rem;
 }
 
 .container{
